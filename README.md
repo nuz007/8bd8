@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**8bd8/8bd8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+![GitHub Repo stars](https://img.shields.io/github/stars/8bd8/8bd8.github.io?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/8bd8/8bd8.github.io?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/8bd8/8bd8.github.io?style=flat-square)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
