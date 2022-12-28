@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=8bd8&show_icons=true&hide_title=true&theme=merko#gh-light-mode-only" />
+<img src="https://github-readme-stats.vercel.app/api?username=8bd8&show_icons=true&hide_title=true&theme=merko#gh-light-mode-only" />
 <br/>
+
+
 
 - 🔭 I’m currently working on final exam
 - 🌱 I’m currently learning math，geography，html5，python
